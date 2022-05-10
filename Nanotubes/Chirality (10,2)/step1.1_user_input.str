@@ -1,9 +1,0 @@
-!
-! User settings
-!
-set prefix   = step1_nanotube
-set material = tube
-set pbc      = z
-set rtube    = 4.362
-set ltube    = 237.353
-set imtube   = yes

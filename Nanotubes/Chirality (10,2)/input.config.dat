@@ -1,1 +1,0 @@
-{"systype":"solution","dimensions":["39","39","237.395","90.0","90.0","90.0"],"input":["gromacs","amber","lammps"],"forcefield":{"type":"c36m","files":["default"],"custom":["step1_nanotube.rtf"]},"nonbond_option":"10-12-fsw","hmr":false}
